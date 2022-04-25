@@ -1,5 +1,5 @@
 # Simple-Games
-These are Java programs created through BlueJ that serve as simple games. Some games have multiple programs because of slight changes in rules, such as the High-Low
+These are Java programs that serve as simple games. Some games have multiple programs because of slight changes in rules, such as the High-Low
 games. Some programs are inspired by the book, "Learn Java the Easy Way" by Bryson Payne. The game specifics are listed below...
 
 HighLow.java is a range between -100 and 100. Guess the randomly generated number in this range.
