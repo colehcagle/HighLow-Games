@@ -1,6 +1,11 @@
-# HighLow-Games
-These are Java programs created through BlueJ that serve as guessing games. Each program specifies the range given to guess within. The programs also count how many
-tries it took to guess the correct number.
-HighLow.java is a range between -100 and 100.
-HighLow2.java is a range between 1 and 10.
-HighLow3.java is a range between 0 and 1,000,000.
+# Simple-Games
+These are Java programs created through BlueJ that serve as simple games. Some games have multiple programs because of slight changes in rules, such as the High-Low
+games. The game specifics are listed...
+
+HighLow.java is a range between -100 and 100. Guess the randomly generated number in this range.
+
+HighLow2.java is a range between 1 and 10. Guess the randomly generated number in this range.
+
+HighLow3.java is a range between 0 and 1,000,000. Guess the randomly generated number in this range.
+
+MadLibs.java is a game that asks for specific string variables to complete the madlib.
