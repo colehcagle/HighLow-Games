@@ -12,3 +12,6 @@ HighLow2.java is a range between 1 and 10. Guess the randomly generated number i
 HighLow3.java is a range between 0 and 1,000,000. Guess the randomly generated number in this range.
 
 MadLibs.java is a game that asks for specific string variables to complete the madlib.
+
+SecretMessages.java is a fun messaging game that allows the user to enter one or more messages for encrytion/decryption. User can also pick the secret key of their 
+choosing between -25 and 25. Currently, letters A through Z, a through z, and digits 0 through 9 are supported.
