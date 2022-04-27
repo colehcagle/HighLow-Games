@@ -2,7 +2,7 @@
 These are Java programs that serve as simple games. Some games have multiple programs because of slight changes in rules, such as the High-Low
 games. Some programs are inspired by the book, "Learn Java the Easy Way" by Bryson Payne. The game specifics are listed below...
 
-GuessingGame.java expands on HighLow.java but uses a GUI to create a friendly-user experience. The range is between -100 and 100 and the user tries to guess the randomly
+GuessingGame.java expands on HighLow.java but uses a GUI to create a user-friendly experience. The range is between -100 and 100 and the user tries to guess the randomly
 generated value.
 
 HighLow.java is a range between -100 and 100. Guess the randomly generated number in this range.
