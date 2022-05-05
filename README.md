@@ -15,3 +15,6 @@ MadLibs.java is a game that asks for specific string variables to complete the m
 
 SecretMessages.java is a fun messaging game that allows the user to enter one or more messages for encryption/decryption. User can also pick the secret key of their 
 choosing between -25 and 25. Currently, letters A through Z, a through z, and digits 0 through 9 are supported.
+
+SecretMessagesGUI.java expands on SecretMessages.java, except uses a GUI for a user-friendly experience. Simply, type in a message and use the slider or text field to
+select an encryption key. Then, click the button to encrypt the message. Or you can do the reverse and decrypt the message.
